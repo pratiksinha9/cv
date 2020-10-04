@@ -1,0 +1,39 @@
+body {
+  background-color: #e0ece4;
+  color: #212121;
+  text-align: left;
+  text-indent: 20px
+}
+
+h1 {
+  color: #66BFBF;
+  text-decoration: overline;
+  font-size: 50px;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/****************ClASS SELECTORS****************/
+.chicken{background-color: red;}
+
+.broccoli{background-color: green;}
+
+h3 {
+  color: #726a95;
+  text-decoration: none;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+
+/****************ID SELECTORS****************/
+#heading {
+  color: blue;
+}
